@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="807642cc-b400-45d2-9d21-127636da73a0" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/single_prediction/1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/single_prediction/53_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/A/422_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/A/468_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/A/468_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/A/480_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/A/491_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/A/505_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/A/526_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/A/527_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/A/537_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/A/540_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/460_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/473_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/477_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/477_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/478_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/479_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/500_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/512_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/523_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/524_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/533_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/546_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_data/B/548_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/101_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/107_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/10_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/129_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/132_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/133_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/147_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/14_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/150_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/153_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/154_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/173_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/181_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/189_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/194_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/19_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/201_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/202_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/210_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/211_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/217_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/222_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/225_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/233_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/237_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/239_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/245_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/24_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/24_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/254_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/255_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/257_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/258_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/259_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/264_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/271_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/274_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/27_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/35_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/39_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/40_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/41_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/45_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/45_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/46_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/4_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/67_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/70_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/72_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/75_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/78_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/78_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/79_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/82_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/88_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/90_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/A/97_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/115_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/122_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/124_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/131_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/131_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/131_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/132_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/134_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/156_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/159_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/166_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/167_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/188_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/18_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/196_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/197_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/222_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/222_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/241_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/243_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/285_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/290_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/297_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/298_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/299_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/299_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/309_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/320_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/327_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/331_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/334_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/34_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/352_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/399_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/42_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/44_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/44_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/51_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/52_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/55_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/56_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/58_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/63_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/67_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/72_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/98_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/99_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train_data/B/9_3.png" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/captcha$t.coverage" NAME="t Coverage Results" MODIFIED="1524040468209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$t.coverage" NAME="t Coverage Results" MODIFIED="1523628651418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$image.coverage" NAME="image Coverage Results" MODIFIED="1523681506598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/captcha$image.coverage" NAME="image Coverage Results" MODIFIED="1526028664188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/captcha$cn.coverage" NAME="cn Coverage Results" MODIFIED="1526101549767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="image.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cn.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+              <folding>
+                <element signature="e#45#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/single_prediction/1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/t.py" />
+        <option value="$PROJECT_DIR$/image.py" />
+        <option value="$PROJECT_DIR$/cn.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="24" />
+    <option name="width" value="683" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="captcha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="captcha" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="captcha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="captcha" type="462c0819:PsiDirectoryNode" />
+              <item name="single_prediction" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.cn">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration name="cn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="captcha" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="captcha" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="t" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="captcha" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="untitled2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.t" />
+      <item index="1" class="java.lang.String" itemvalue="Python.image" />
+      <item index="2" class="java.lang.String" itemvalue="Python.cn" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.cn" />
+        <item index="1" class="java.lang.String" itemvalue="Python.image" />
+        <item index="2" class="java.lang.String" itemvalue="Python.t" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="807642cc-b400-45d2-9d21-127636da73a0" name="Default" comment="" />
+      <created>1523627419528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523627419528</updated>
+    </task>
+    <task id="LOCAL-00001" summary="cnn test code">
+      <created>1526104859992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526104859992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23017107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12954545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cnn test code" />
+    <option name="LAST_COMMIT_MESSAGE" value="cnn test code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/image.py</url>
+          <line>13</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single_prediction/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="26" />
+          <folding>
+            <element signature="e#45#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t.py" />
+    <entry file="file://$PROJECT_DIR$/test.txt" />
+    <entry file="file://$PROJECT_DIR$/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new.txt" />
+    <entry file="file://$PROJECT_DIR$/t.py" />
+    <entry file="file://$PROJECT_DIR$/test.txt" />
+    <entry file="file://$PROJECT_DIR$/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new.txt" />
+    <entry file="file://$PROJECT_DIR$/t.py" />
+    <entry file="file://$PROJECT_DIR$/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t.py" />
+    <entry file="file://$PROJECT_DIR$/t.py" />
+    <entry file="file://$PROJECT_DIR$/492.png" />
+    <entry file="file://$PROJECT_DIR$/test.txt" />
+    <entry file="file://$PROJECT_DIR$/new.txt" />
+    <entry file="file://$PROJECT_DIR$/t.py" />
+    <entry file="file://$PROJECT_DIR$/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single_prediction/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <folding>
+            <element signature="e#45#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
