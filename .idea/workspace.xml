@@ -3,225 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="807642cc-b400-45d2-9d21-127636da73a0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/cn.py" afterPath="$PROJECT_DIR$/cn.py" />
-      <change beforePath="$PROJECT_DIR$/output/100_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/105_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/106_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/112_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/112_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/115_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/115_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/119_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/11_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/11_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/11_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/121_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/12_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/134_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/139_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/140_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/140_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/144_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/147_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/149_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/154_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/156_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/158_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/15_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/162_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/164_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/182_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/185_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/185_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/186_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/198_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/201_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/207_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/207_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/208_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/210_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/210_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/217_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/221_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/226_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/228_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/231_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/234_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/239_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/23_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/23_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/242_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/247_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/247_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/249_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/24_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/250_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/268_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/268_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/269_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/273_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/275_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/278_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/283_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/288_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/292_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/294_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/295_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/297_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/298_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/29_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/2_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/2_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/303_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/306_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/30_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/314_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/319_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/321_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/321_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/323_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/324_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/324_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/326_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/327_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/328_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/32_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/330_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/330_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/331_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/331_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/332_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/332_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/333_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/335_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/335_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/336_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/337_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/337_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/338_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/339_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/340_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/342_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/343_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/345_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/347_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/348_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/349_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/351_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/352_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/355_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/358_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/361_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/364_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/366_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/367_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/36_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/370_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/371_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/374_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/376_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/377_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/380_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/381_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/381_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/381_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/386_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/387_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/388_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/390_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/394_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/394_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/394_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/397_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/398_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/3_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/402_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/403_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/406_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/407_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/408_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/409_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/410_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/410_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/411_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/416_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/421_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/427_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/427_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/428_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/432_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/434_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/435_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/436_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/438_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/439_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/440_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/444_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/446_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/448_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/448_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/449_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/461_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/462_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/466_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/468_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/470_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/472_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/473_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/474_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/475_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/47_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/482_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/484_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/485_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/486_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/486_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/488_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/489_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/493_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/496_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/506.png_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/506_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/507_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/507_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/512_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/513_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/514_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/515_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/518_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/519_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/522_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/527_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/529_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/532_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/533_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/534_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/535_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/539_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/548_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/553_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/553_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/61_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/6_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/70_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/80_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/81_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/86_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/87_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/89_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/91_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/96_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output/9_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test_data/A/527_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test_data/A/537_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test_data/A/540_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test_data/B/533_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test_data/B/546_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test_data/B/548_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/train_data/A/259_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/train_data/A/264_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/train_data/A/271_4.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -340,6 +121,11 @@
               <item name="captcha" type="b2602c69:ProjectViewProjectNode" />
               <item name="captcha" type="462c0819:PsiDirectoryNode" />
               <item name="single_prediction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="captcha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="captcha" type="462c0819:PsiDirectoryNode" />
+              <item name="train_data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -604,12 +390,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526105366785</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added classification">
+      <created>1526114114061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526114114061</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -617,7 +409,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48833594" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12954545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12954545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -642,7 +434,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cnn test code" />
-    <option name="LAST_COMMIT_MESSAGE" value="cnn test code" />
+    <MESSAGE value="added classification" />
+    <option name="LAST_COMMIT_MESSAGE" value="added classification" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
