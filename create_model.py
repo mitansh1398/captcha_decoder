@@ -5,6 +5,7 @@ from keras.layers import Conv2D
 from keras.layers import MaxPooling2D
 from keras.layers import Flatten
 from keras.layers import Dense
+import pickle
 # Initialising the CNN
 classifier = Sequential()
 # Step 1 - Convolution
@@ -17,7 +18,7 @@ classifier.add(MaxPooling2D(pool_size = (2, 2)))
 # Step 3 - Flattening
 classifier.add(Flatten())
 # Step 4 - Full connection
-classifier.add(Dense(units = 4, activation = 'softmax'))
+classifier.add(Dense(units = 10, activation = 'softmax'))
 # classifier.add(Dense(units = 1, activation = 'softmax'))
 # Compiling the CNN
 classifier.compile(optimizer = 'adam', loss = 'sparse_categorical_crossentropy', metrics = ['accuracy'])
@@ -45,4 +46,13 @@ validation_steps = 20)
 # Part 3 - Making new predictions
 
 classifier.save('store')
+
+pickle_out = open("dict.pickle","wb")
+pickle.dump(training_set.class_indices, pickle_out)
+pickle_out.close()
+
+file = open('class_indices.txt','w')
+file.write(str(training_set.class_indices))
+file.close()
+
 
