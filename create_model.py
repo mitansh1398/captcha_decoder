@@ -18,7 +18,7 @@ classifier.add(MaxPooling2D(pool_size = (2, 2)))
 # Step 3 - Flattening
 classifier.add(Flatten())
 # Step 4 - Full connection
-classifier.add(Dense(units = 27, activation = 'softmax'))
+classifier.add(Dense(units = 28, activation = 'softmax'))
 # classifier.add(Dense(units = 1, activation = 'softmax'))
 # Compiling the CNN
 classifier.compile(optimizer = 'adam', loss = 'sparse_categorical_crossentropy', metrics = ['accuracy'])
