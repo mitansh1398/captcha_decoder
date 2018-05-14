@@ -18,13 +18,18 @@ classifier.add(Conv2D(32, (3, 3), activation = 'relu'))
 classifier.add(MaxPooling2D(pool_size = (2, 2)))
 # Step 3 - Flattening
 classifier.add(Flatten())
+
+# classifier.add(Dense(units = 200, activation = 'relu'))
+# classifier.add(Dense(units = 100, activation = 'relu'))
+# classifier.add(Dense(units = 128, activation = 'relu'))
+
 # Step 4 - Full connection
-# classifier.add(Dense(units = 120))
+classifier.add(Dense(units = 120,activation='relu'))
 
 classifier.add(Dense(units = 28, activation = 'softmax'))
 # classifier.add(Dense(units = 1, activation = 'softmax'))
 # Compiling the CNN
-classifier.compile(optimizer = 'adam', loss = 'sparse_categorical_crossentropy', metrics = ['accuracy'])
+classifier.compile(optimizer = 'adam', loss = 'categorical_crossentropy', metrics = ['accuracy'])
 # Part 2 - Fitting the CNN to the images
 from keras.preprocessing.image import ImageDataGenerator
 train_datagen = ImageDataGenerator(rescale = 1./255,
@@ -35,11 +40,11 @@ test_datagen = ImageDataGenerator(rescale = 1./255)
 training_set = train_datagen.flow_from_directory('train_data',
 target_size = (50, 65),
 batch_size = 10,
-class_mode = 'sparse')
+class_mode = 'categorical')
 test_set = test_datagen.flow_from_directory('test_data',
 target_size = (50, 65),
 batch_size = 10,
-class_mode = 'sparse')
+class_mode = 'categorical')
 
 print(classifier.summary())
 

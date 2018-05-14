@@ -2,45 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="807642cc-b400-45d2-9d21-127636da73a0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/class_indices.txt" afterPath="$PROJECT_DIR$/class_indices.txt" />
       <change beforePath="$PROJECT_DIR$/create_model.py" afterPath="$PROJECT_DIR$/create_model.py" />
       <change beforePath="$PROJECT_DIR$/dict.pickle" afterPath="$PROJECT_DIR$/dict.pickle" />
-      <change beforePath="$PROJECT_DIR$/single_prediction/1.png" afterPath="$PROJECT_DIR$/single_prediction/1.png" />
-      <change beforePath="$PROJECT_DIR$/single_prediction/2.png" afterPath="$PROJECT_DIR$/single_prediction/2.png" />
-      <change beforePath="$PROJECT_DIR$/single_prediction/3.png" afterPath="$PROJECT_DIR$/single_prediction/3.png" />
-      <change beforePath="$PROJECT_DIR$/single_prediction/4.png" afterPath="$PROJECT_DIR$/single_prediction/4.png" />
-      <change beforePath="$PROJECT_DIR$/single_prediction/5.png" afterPath="$PROJECT_DIR$/single_prediction/5.png" />
       <change beforePath="$PROJECT_DIR$/store" afterPath="$PROJECT_DIR$/store" />
-      <change beforePath="$PROJECT_DIR$/test_data/D/467_3.png" afterPath="$PROJECT_DIR$/test_data/D/467_3.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/D/475_3.png" afterPath="$PROJECT_DIR$/test_data/D/475_3.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/D/481_5.png" afterPath="$PROJECT_DIR$/test_data/D/481_5.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/D/496_4.png" afterPath="$PROJECT_DIR$/test_data/D/496_4.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/D/497_1.png" afterPath="$PROJECT_DIR$/test_data/D/497_1.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/D/499_4.png" afterPath="$PROJECT_DIR$/test_data/D/499_4.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/D/502_5.png" afterPath="$PROJECT_DIR$/test_data/D/502_5.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/D/520_1.png" afterPath="$PROJECT_DIR$/test_data/D/520_1.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/D/524_5.png" afterPath="$PROJECT_DIR$/test_data/D/524_5.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/D/531_5.png" afterPath="$PROJECT_DIR$/test_data/D/531_5.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/K/471_5.png" afterPath="$PROJECT_DIR$/test_data/K/471_5.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/K/485_1.png" afterPath="$PROJECT_DIR$/test_data/K/485_1.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/K/488_3.png" afterPath="$PROJECT_DIR$/test_data/K/488_3.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/K/495_4.png" afterPath="$PROJECT_DIR$/test_data/K/495_4.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/K/505_2.png" afterPath="$PROJECT_DIR$/test_data/K/505_2.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/K/506.png_5.png" afterPath="$PROJECT_DIR$/test_data/K/506.png_5.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/K/506_5.png" afterPath="$PROJECT_DIR$/test_data/K/506_5.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/K/517_5.png" afterPath="$PROJECT_DIR$/test_data/K/517_5.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/K/524_4.png" afterPath="$PROJECT_DIR$/test_data/K/524_4.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/K/525_2.png" afterPath="$PROJECT_DIR$/test_data/K/525_2.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/Y/412_3.png" afterPath="$PROJECT_DIR$/test_data/Y/412_3.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/Y/417_4.png" afterPath="$PROJECT_DIR$/test_data/Y/417_4.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/Y/420_5.png" afterPath="$PROJECT_DIR$/test_data/Y/420_5.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/Y/440_2.png" afterPath="$PROJECT_DIR$/test_data/Y/440_2.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/Y/465_3.png" afterPath="$PROJECT_DIR$/test_data/Y/465_3.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/Y/466_2.png" afterPath="$PROJECT_DIR$/test_data/Y/466_2.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/Y/466_4.png" afterPath="$PROJECT_DIR$/test_data/Y/466_4.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/Y/469_5.png" afterPath="$PROJECT_DIR$/test_data/Y/469_5.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/Y/473_5.png" afterPath="$PROJECT_DIR$/test_data/Y/473_5.png" />
-      <change beforePath="$PROJECT_DIR$/test_data/Y/494_2.png" afterPath="$PROJECT_DIR$/test_data/Y/494_2.png" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,7 +21,7 @@
     <SUITE FILE_PATH="coverage/captcha$get_images__1_.coverage" NAME="get_images (1) Coverage Results" MODIFIED="1526261229271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t" />
     <SUITE FILE_PATH="coverage/captcha$t.coverage" NAME="t Coverage Results" MODIFIED="1524040468209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled2$t.coverage" NAME="t Coverage Results" MODIFIED="1523628651418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/captcha$create_model.coverage" NAME="create_model Coverage Results" MODIFIED="1526263651959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/captcha$create_model.coverage" NAME="create_model Coverage Results" MODIFIED="1526266771344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled2$image.coverage" NAME="image Coverage Results" MODIFIED="1523681506598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/captcha$image.coverage" NAME="image Coverage Results" MODIFIED="1526028664188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/captcha$cn.coverage" NAME="cn Coverage Results" MODIFIED="1526114860124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -65,7 +31,7 @@
       <file leaf-file-name="image.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="90">
               <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
@@ -87,8 +53,8 @@
       <file leaf-file-name="create_model.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/create_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+            <state relative-caret-position="198">
+              <caret line="26" column="49" lean-forward="false" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -147,7 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,7 +130,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -491,7 +457,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39657855" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1310606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -534,6 +500,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/image.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t/get_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="138" lean-forward="false" selection-start-line="4" selection-start-column="138" selection-end-line="4" selection-end-column="138" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -542,19 +534,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.py" />
     <entry file="file:///usr/local/lib/python3.5/dist-packages/h5py/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -562,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,14 +569,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.py" />
     <entry file="file://$PROJECT_DIR$/image.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -686,23 +662,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.py" />
     <entry file="file://$PROJECT_DIR$/class_indices.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,9 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -720,13 +684,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="129" lean-forward="true" selection-start-line="4" selection-start-column="129" selection-end-line="4" selection-end-column="129" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="90">
           <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
@@ -744,8 +707,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/create_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        <state relative-caret-position="198">
+          <caret line="26" column="49" lean-forward="false" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
           <folding />
         </state>
       </provider>
