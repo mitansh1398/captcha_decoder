@@ -1,7 +1,7 @@
 
 #!/bin/sh
 
-for file in {50..500}
+for file in {1000..1100}
 do
-	wget --wait=1 -O $file.png "https://webmail.iitg.ac.in/plugins/captcha/backends/watercap/image_generator.php?sq="$file
+	wget --wait=5 -O $file.png "https://webmail.iitg.ac.in/plugins/captcha/backends/watercap/image_generator.php?sq="$file
 done

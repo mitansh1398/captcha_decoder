@@ -13,11 +13,14 @@ classifier.add(Conv2D(32, (3, 3), input_shape = (50, 65, 3), activation = 'relu'
 # Step 2 - Pooling
 classifier.add(MaxPooling2D(pool_size = (2, 2)))
 # Adding a second convolutional layer
+
 classifier.add(Conv2D(32, (3, 3), activation = 'relu'))
 classifier.add(MaxPooling2D(pool_size = (2, 2)))
 # Step 3 - Flattening
 classifier.add(Flatten())
 # Step 4 - Full connection
+# classifier.add(Dense(units = 120))
+
 classifier.add(Dense(units = 28, activation = 'softmax'))
 # classifier.add(Dense(units = 1, activation = 'softmax'))
 # Compiling the CNN
@@ -37,6 +40,8 @@ test_set = test_datagen.flow_from_directory('test_data',
 target_size = (50, 65),
 batch_size = 10,
 class_mode = 'sparse')
+
+print(classifier.summary())
 
 classifier.fit_generator(training_set,
 steps_per_epoch = 800,
