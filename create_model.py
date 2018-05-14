@@ -39,18 +39,18 @@ horizontal_flip = True)
 test_datagen = ImageDataGenerator(rescale = 1./255)
 training_set = train_datagen.flow_from_directory('train_data',
 target_size = (50, 65),
-batch_size = 10,
+batch_size = 32,
 class_mode = 'categorical')
 test_set = test_datagen.flow_from_directory('test_data',
 target_size = (50, 65),
-batch_size = 10,
+batch_size = 32,
 class_mode = 'categorical')
 
 print(classifier.summary())
 
 classifier.fit_generator(training_set,
-steps_per_epoch = 800,
-epochs = 5,
+steps_per_epoch = 200,
+epochs = 20,
 validation_data = test_set,
 validation_steps = 20)
 # Part 3 - Making new predictions
