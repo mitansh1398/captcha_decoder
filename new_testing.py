@@ -8,7 +8,6 @@ from keras.preprocessing import image
 import numpy as np
 
 
-
 i = 1000
 urllib.request.urlretrieve("https://webmail.iitg.ernet.in/plugins/captcha/backends/watercap/image_generator.php?sq="+str(i), "new.png")
 file = "new.png"
@@ -29,7 +28,6 @@ letter_2.save("single_prediction/2.png")
 letter_3.save("single_prediction/3.png")
 letter_4.save("single_prediction/4.png")
 letter_5.save("single_prediction/5.png")
-
 
 classifier = keras.models.load_model('store')
 
