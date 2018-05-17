@@ -9,8 +9,8 @@ import numpy as np
 
 
 i = 1000
-urllib.request.urlretrieve("https://webmail.iitg.ernet.in/plugins/captcha/backends/watercap/image_generator.php?sq="+str(i), "new.png")
-file = "new.png"
+urllib.request.urlretrieve("https://webmail.iitg.ernet.in/plugins/captcha/backends/watercap/image_generator.php?sq="+str(i), "predictions.png")
+file = "predictions.png"
 print("processing file %s"%(file))
 filename = file
 img = Image.open(filename)
