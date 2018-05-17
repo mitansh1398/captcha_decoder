@@ -1,2 +1,4 @@
 test_images/
 t/
+.ipynb_checkpoints/
+.idea/
