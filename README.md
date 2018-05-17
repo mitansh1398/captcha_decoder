@@ -6,7 +6,7 @@ This is a Image Classifier model using Convolutional Neural Network using “[ke
 ----------
 ## **Dependencies** :
 - [keras](https://keras.io/)
-- [tensorflow](https://www.tensorflow.org/install/)
+- [tensorflow>=1.8](https://www.tensorflow.org/install/)
 - [pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
 - [python>=3.5](https://www.python.org/downloads/)
 
