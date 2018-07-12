@@ -1,4 +1,8 @@
-test_images/
+captcha_images/
 t/
 .ipynb_checkpoints/
 .idea/
+test_data/
+train_data/
+val_data/
+predictions/
